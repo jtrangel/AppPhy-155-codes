@@ -3,7 +3,11 @@ Undergrad 3rd yr 1st sem
 
 This semester I worked on implementing and solving several problems using jupyter notebooks. 
 
-Tech stack: Python, Google Colab, Jupyter Notebook, Anaconda
+Tech stack:
+* [Python](https://www.python.org/)
+* [Google Colab](https://colab.research.google.com/)
+* [Jupyter Notebook](https://jupyter.org/)
+* [Anaconda](https://www.anaconda.com/)
 
 ## Module 1
 
